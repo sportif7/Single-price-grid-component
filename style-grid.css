@@ -112,6 +112,7 @@ main > * {
      border:none;
      background-color:hsl(var(--clr-bright-yellow));
      color:hsl(var(--clr-white));
+     font-weight:bold;
      box-shadow:0 5px 15px hsla(var(--clr-black), 0.2);
 }
 
